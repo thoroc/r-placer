@@ -3,5 +3,5 @@ webdriver_manager==3.5.4
 requests==2.26.0
 numpy==1.22.3
 selenium==3.141.0
-Pillow==9.3.0
+Pillow==10.3.0
 PyJWT==2.3.0
